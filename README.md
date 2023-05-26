@@ -6,7 +6,7 @@
 => Crie uma classe que herde atributos e métodos da classe Person, adicione o método profissao, e reescreve o método apresentar para imprimir ‘Olá me chamo ${nome} tenho ${idade} anos e tenho ${altura} de altura e sou ${profissao}’.
 
 # Execício 2
-#OBS: foi adcionado um método para redefinir senha que não estava descrito no exercicio.
+# Obs: foi adcionado um método para redefinir senha que não estava descrito no exercicio.
 => Um banco contratou você para criar uma classe que opere as contas do banco utilizando orientação a objetos.
 
 => Crie uma classe chamada Conta
@@ -16,7 +16,7 @@
 => Por fim, instancie um objeto chamado contaCorrente e teste as operações.
 
 # Execício 3 
-#OBS: foi adcionado método de selecionar a forma de pagamento (dinheiro,cartão credito,cartão débito) que não estava descrita no exercício.
+# Obs: foi adcionado método de selecionar a forma de pagamento (dinheiro,cartão credito,cartão débito) que não estava descrita no exercício.
 => O seu Manoel gostou do último aplicativo e agora quer inovar.
 
 => Ele quer que você construa a aplicação utilizando orientação a objetos.
